@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# ----------------- INSTALLATION OF SUPERVISOR ----------------- #
+
+# ALLOW YOU TO RUN NODEJS
+# PROGRAM AS A SERVICE
+# IN DEBIAN AND UBUNTU
+#
+
+# -----------------        REQUIREMENT          ----------------- #
+
